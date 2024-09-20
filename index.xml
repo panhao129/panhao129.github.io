@@ -7,7 +7,29 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>江浦风</copyright>
-        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://panhao129.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 20 Sep 2024 14:43:17 +0800</lastBuildDate><atom:link href="https://panhao129.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Hello World</title>
+        <link>https://panhao129.github.io/p/hello-world/</link>
+        <pubDate>Fri, 20 Sep 2024 14:43:17 +0800</pubDate>
+        
+        <guid>https://panhao129.github.io/p/hello-world/</guid>
+        <description>&lt;p&gt;大家好，欢迎来到我的博客！今天，我正式开启这段新的旅程，希望通过这个平台与大家分享我的思考、经历和感悟。无论你是偶然路过，还是特意来访，都请放慢脚步，一起感受这份独特的温暖与美好。&lt;/p&gt;
+&lt;h3 id=&#34;为什么选择hello-world作为第一篇文章&#34;&gt;为什么选择“Hello World”作为第一篇文章？
+&lt;/h3&gt;&lt;p&gt;“Hello World”是每个程序员学习新编程语言时的第一个程序。它虽然简单，却充满了无限可能。对我而言，这不仅是向技术社区致敬，更是对新生活的美好祝愿。从今天起，我将以更加开放的心态，迎接每一个挑战，拥抱每一次机会。&lt;/p&gt;
+&lt;h3 id=&#34;博客内容概览&#34;&gt;博客内容概览
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;个人成长&lt;/strong&gt;：记录我的学习历程，分享成长过程中的点滴与感悟。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术分享&lt;/strong&gt;：探讨最新的技术趋势，分享实用的代码片段和项目经验。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;旅行见闻&lt;/strong&gt;：记录我的旅行故事，分享世界各地的风土人情和美食文化。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;生活感悟&lt;/strong&gt;：探讨日常生活的美好，分享对人生和社会的深刻思考。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;期待与你同行&#34;&gt;期待与你同行
+&lt;/h3&gt;&lt;p&gt;每一段旅程都有其起点，而今天就是我的起点。我希望通过这个博客，不仅能与你们分享我的故事，也能倾听你们的声音。无论是建议、批评还是鼓励，都是我前进的动力。如果你愿意，不妨留下你的足迹，让我们一起见证彼此的成长。&lt;/p&gt;
+&lt;h3 id=&#34;结语&#34;&gt;结语
+&lt;/h3&gt;&lt;p&gt;再次感谢你的到来。未来的日子里，让我们携手并进，共同创造更多美好的回忆。希望这里能成为你心灵的一片净土，带给你不一样的体验和启示。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>归档</title>
         <link>https://panhao129.github.io/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
